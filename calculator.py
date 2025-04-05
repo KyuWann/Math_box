@@ -7,3 +7,5 @@ def multifly(a, b);
     return a*b  
 def divide_new, b):
     return a/b
+def square(a):
+    return a*a
